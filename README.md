@@ -1,4 +1,5 @@
 # flutter_project
+![Screenshot_2023-06-18-02-45-08-626_com example flutter_project (1)](https://github.com/dibbo54/my_flutter_project/assets/136928607/576e7603-2072-4112-829e-5c57d4f91a45)
 
 A new Flutter project.
 
